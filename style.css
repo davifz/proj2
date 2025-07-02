@@ -34,6 +34,13 @@ button {
   text-shadow: 1px 1px 1px #000;
   transition: transform 0.2s, box-shadow 0.2s;
   font-family: 'Press Start 2P', cursive;
+  text-shadow:
+  0 0 5px #fdd835,
+  0 0 10px #fdd835,
+  0 0 20px #fdd835;
+  box-shadow:
+  0 0 5px #fdd835,
+  0 0 15px #fdd835 inset;
 }
 
 button:hover {
