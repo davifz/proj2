@@ -33,6 +33,7 @@ button {
   width: 260px;
   text-shadow: 1px 1px 1px #000;
   transition: transform 0.2s, box-shadow 0.2s;
+  font-family: 'Press Start 2P', cursive;
 }
 
 button:hover {
